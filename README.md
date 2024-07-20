@@ -9,6 +9,8 @@ This tool helps you determine if your system is impacted by the CrowdStrike upda
 3. Right-click the downloaded file and select "Run as administrator".
 4. Follow the on-screen instructions.
 
+![CrowdStrike Impact Checker](https://github.com/deepkse/CrowdStrike-Impact-Checker/blob/main/public/images/CrowdStrikeImpactChecker.png?raw=true)
+
 ## Building from Source
 
 If you prefer to build the executable yourself:
